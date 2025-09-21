@@ -1,5 +1,5 @@
 # 🔗 Project Links
-The following table redirects to each project's name and a short description. I've also grouped the projects under relevant modules and sorted them out by how (relatively) difficult they are.
+The following table redirects to each project's name and a short description. I've also grouped the projects under relevant modules and sorted them out by how (relatively) difficult they are. Any projects that lack a hyperlink have not been started yet.
 
 ### 🟢 Easy
 | **Project**                     | **Description**                                                                                                        |
