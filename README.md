@@ -1,10 +1,10 @@
-# cybersec-master-list
+# /cybersec-master-list
 
 Welcome to cybersec-master-list! This is a repo that contains cybersecurity projects, loosely based on TryHackMe's [SOC Level 1](https://tryhackme.com/path/outline/soclevel1), [Junior Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester), and [Security Engineer](https://tryhackme.com/path/outline/security-engineer-training) paths.
 You'll find the following for each project:
-👨‍🏫 Guided instructions: Step-by-step tutorials to understand the how of the work
-🖼️ Screenshots: Images to get a visual idea of what to do - (a picture is worth a thousand words, after all)
-📽️ Videos: 30-90s videos for proof of concept (PoC) exploits or common attacks (e.g., SQL injection).
+- 👨‍🏫 Guided instructions: Step-by-step tutorials to understand the how of the work
+- 🖼️ Screenshots: Images to get a visual idea of what to do - (a picture is worth a thousand words, after all)
+- 📽️ Videos: 30-90s videos for proof of concept (PoC) exploits or common attacks (e.g., SQL injection).
 
 ## 🎯 How to Use this Repo
 - Each module folder contains:
