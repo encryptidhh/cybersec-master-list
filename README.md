@@ -1,4 +1,4 @@
-# /cybersec-master-list
+# Cybersec Master List
 
 Welcome to cybersec-master-list! This is a repo that contains cybersecurity projects, loosely based on TryHackMe's [SOC Level 1](https://tryhackme.com/path/outline/soclevel1), [Junior Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester), and [Security Engineer](https://tryhackme.com/path/outline/security-engineer-training) paths.
 You'll find the following for each project:
