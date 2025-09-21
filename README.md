@@ -14,6 +14,7 @@ You'll find the following for each project:
   - A **personal knowledge base**.
   - A **portfolio for recruiters**.
   - A **progress tracker** for cybersecurity growth.
+ 
 
 ## 📌 Module Navigation
 1. [Security Governance, Training, and Threat Intelligence](./01_GRC_Training_Threat_Intelligence)
@@ -21,3 +22,6 @@ You'll find the following for each project:
 3. [Secure Architecture](./03_Secure_Architecture)
 4. [IAM and Cryptography](./04_IAM_and_Cryptography)
 5. [Asset and Software Security](./05_Asset_and_Software_Security)
+
+# 💫 If You Like this Repo...
+Give it a star! Starring my repo allows other cybersecurity learners to use this repo and deepen their security knowledge, just like you and me! It also helps me to keep this repo up-to-date with emerging cybersecurity threats.
