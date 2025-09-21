@@ -1,7 +1,6 @@
 # 🔗 Project Links
 The following table redirects to each project's name and a short description. I've also grouped the projects under relevant modules and sorted them out by how (relatively) difficult they are.
 
-## 1. Security Governance, Training, and Threat Intelligence
 ### 🟢 Easy
 | **Project**                     | **Description**                                                                                                        |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------|
